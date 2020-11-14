@@ -4,7 +4,7 @@
   "description": "Returns a random, web safe font",
   "main": "index.js",
   "engines": {
-    "node": ">=12.18.3"
+    "node": ">=12.19.0"
   },
   "dependencies": {
     "crypto-shuffle": "1.0.1"
