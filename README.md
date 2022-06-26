@@ -7,7 +7,7 @@ Returns a random, web safe font
 # Usage
 
 ```JavaScript
-const randomFont = require('random-font')
+import { randomFont } from 'random-font'
 
 console.log(randomFont()) // => verdana
 ```

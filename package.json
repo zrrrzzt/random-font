@@ -3,6 +3,7 @@
   "version": "3.0.1",
   "description": "Returns a random, web safe font",
   "main": "index.js",
+  "type": "module",
   "engines": {
     "node": ">=16.15.1"
   },
@@ -42,7 +43,6 @@
   },
   "homepage": "https://github.com/zrrrzzt/random-font#readme",
   "files": [
-    "lib/*.{js,json}",
     "index.js"
   ]
 }
