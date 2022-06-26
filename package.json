@@ -1,6 +1,6 @@
 {
   "name": "random-font",
-  "version": "3.0.1",
+  "version": "4.0.0",
   "description": "Returns a random, web safe font",
   "main": "index.js",
   "type": "module",
